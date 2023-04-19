@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#000000</color>
+    <color name="colorPrimary">#EB5185</color>
+    <color name="colorPrimaryDark">#EB5185</color>
+    <color name="color_black">#000000</color>
+    <color name="drawer_color">#EB5185</color>
+    <color name="gray_color">#9c9b9b</color>
+    <color name="light_color">#fafafa</color>
+    <color name="off_color">#dfdada</color>
+    <color name="text_color">#ffffff</color>
+    <string name="about">About</string>
+    <string name="about_text">MK Music is a application to express your mind feelings.
+    </string>
+    <string name="app_name">MK Music</string>
+    <string name="delete">Delete</string>
+    <string name="delete_text"> Are you sure you want to delete</string>
+    <string name="favorites">Favorites</string>
+    <string name="final_time">0.00</string>
+    <string name="no">No</string>
+    <string name="ok">OK</string>
+    <string name="play_next">Play Next</string>
+    <string name="rate_app">Rate This App</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Song Name</string>
+    <string name="sleep_timer">Sleep Timer</string>
+    <string name="start_time">0.00</string>
+    <string name="theme_color">Theme Color</string>
+    <string name="title">MK Music</string>
+    <string name="yes">Yes</string>
+    <style name="ActionBar" parent="@style/Widget.AppCompat.Light.ActionBar">
+        <item name="android:background">@color/colorPrimary</item>
+        <item name="background">@color/colorAccent</item>
+    </style>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+</resources>

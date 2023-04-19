@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.test.services:storage:1.4.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/79eef63f7c307933b7ae0473cd1bac68/storage-1.4.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a3909c7ca58d69fcfac9fc701827a1d8/transformed/storage-1.4.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/481101400faec7ae2e36f09ebc3a3d4d/transformed/storage-1.4.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/53bacd2d226d698bf42f4d007a123291/transformed/jetified-storage-1.4.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/53bacd2d226d698bf42f4d007a123291/transformed/jetified-storage-1.4.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/53bacd2d226d698bf42f4d007a123291/transformed/jetified-storage-1.4.2/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test.services/storage/1.4.2/edb6438b0e7e21c66b22184eebdb13cd5167161a/storage-1.4.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test.services/storage/1.4.2/7653e58ad020a74392900229f15971ffb69d57ea/storage-1.4.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

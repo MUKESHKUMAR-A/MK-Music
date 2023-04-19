@@ -1,0 +1,234 @@
+[
+    {
+        "merged": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\intermediates\\res\\merged\\release\\drawable_timer_icon.xml.flat",
+        "source": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\src\\main\\res\\drawable\\timer_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v24_play_icon.xml.flat",
+        "source": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v24\\play_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\intermediates\\res\\merged\\release\\drawable_about_icon.xml.flat",
+        "source": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\src\\main\\res\\drawable\\about_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\intermediates\\res\\merged\\release\\drawable_headset_icon.xml.flat",
+        "source": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\src\\main\\res\\drawable\\headset_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_play_icon.png.flat",
+        "source": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\play_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_settings.xml.flat",
+        "source": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\src\\main\\res\\drawable\\ic_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_play_icon.png.flat",
+        "source": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\play_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\intermediates\\res\\merged\\release\\drawable_pause_icon.xml.flat",
+        "source": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\src\\main\\res\\drawable\\pause_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\intermediates\\res\\merged\\release\\drawable_undo_icon.xml.flat",
+        "source": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\src\\main\\res\\drawable\\undo_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\intermediates\\res\\merged\\release\\menu_action_bar_menu.xml.flat",
+        "source": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\src\\main\\res\\menu\\action_bar_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_music.xml.flat",
+        "source": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\src\\main\\res\\drawable\\ic_music.xml"
+    },
+    {
+        "merged": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_play_icon.png.flat",
+        "source": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\play_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\intermediates\\res\\merged\\release\\drawable_header_background.jpg.flat",
+        "source": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\src\\main\\res\\drawable\\header_background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\intermediates\\res\\merged\\release\\drawable_menu_icon.xml.flat",
+        "source": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\src\\main\\res\\drawable\\menu_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\intermediates\\res\\merged\\release\\layout_player_layout.xml.flat",
+        "source": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\src\\main\\res\\layout\\player_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\intermediates\\res\\merged\\release\\layout_playlist_items.xml.flat",
+        "source": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\src\\main\\res\\layout\\playlist_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_favorite_filled.xml.flat",
+        "source": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\src\\main\\res\\drawable\\ic_favorite_filled.xml"
+    },
+    {
+        "merged": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\intermediates\\res\\merged\\release\\drawable_next_icon.xml.flat",
+        "source": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\src\\main\\res\\drawable\\next_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\intermediates\\res\\merged\\release\\drawable_previous_icon.xml.flat",
+        "source": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\src\\main\\res\\drawable\\previous_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_music_player.xml.flat",
+        "source": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\src\\main\\res\\drawable\\ic_music_player.xml"
+    },
+    {
+        "merged": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_tab.xml.flat",
+        "source": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\src\\main\\res\\layout\\fragment_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\intermediates\\res\\merged\\release\\xml_searchable.xml.flat",
+        "source": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\src\\main\\res\\xml\\searchable.xml"
+    },
+    {
+        "merged": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\intermediates\\res\\merged\\release\\drawable_theme_color_icon.xml.flat",
+        "source": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\src\\main\\res\\drawable\\theme_color_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\intermediates\\res\\merged\\release\\drawable_favorite_icon.xml.flat",
+        "source": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\src\\main\\res\\drawable\\favorite_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\intermediates\\res\\merged\\release\\drawable_refresh_icon.xml.flat",
+        "source": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\src\\main\\res\\drawable\\refresh_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\intermediates\\res\\merged\\release\\drawable_search_icon.xml.flat",
+        "source": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\src\\main\\res\\drawable\\search_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_logo.png.flat",
+        "source": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\src\\main\\res\\drawable-v24\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_play_icon.png.flat",
+        "source": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\play_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_play_icon.png.flat",
+        "source": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\play_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\intermediates\\res\\merged\\release\\drawable_rate_icon.xml.flat",
+        "source": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\src\\main\\res\\drawable\\rate_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_spalshscreen.xml.flat",
+        "source": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\src\\main\\res\\layout\\activity_spalshscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_play_icon.png.flat",
+        "source": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\play_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\intermediates\\res\\merged\\release\\drawable_arrow_forward.xml.flat",
+        "source": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\src\\main\\res\\drawable\\arrow_forward.xml"
+    },
+    {
+        "merged": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_launcher_foreground.png"
+    }
+]

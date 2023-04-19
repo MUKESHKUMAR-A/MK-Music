@@ -1,0 +1,283 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:2:1-49:12
+MERGED from [com.google.android.material:material:1.8.0] C:\Users\mukes\.gradle\caches\transforms-3\ecf786b70a21a37ed512d79e4f35ade5\transformed\material-1.8.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\mukes\.gradle\caches\transforms-3\1e5a8d1be73ad89e2213705249663030\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\mukes\.gradle\caches\transforms-3\0d4f9bc886a3795bd69a15e0fcadfc45\transformed\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\mukes\.gradle\caches\transforms-3\45b3b0cb8a82c4f04a29437990cd35c9\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\mukes\.gradle\caches\transforms-3\4db3d9e1c96e97f29832aa772b52264a\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\mukes\.gradle\caches\transforms-3\5059d3217f844de63f03a85fc33a1ce9\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mukes\.gradle\caches\transforms-3\e7b30545c7dde1e95f57bd7de9616f2c\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\mukes\.gradle\caches\transforms-3\2afa6548654408e47fbd8cefa248891d\transformed\jetified-activity-1.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\mukes\.gradle\caches\transforms-3\f7aa6055ca45ba18dd8c235f594492ff\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\mukes\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\mukes\.gradle\caches\transforms-3\40385b749faeb1e28d272b77cbb8f0b1\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\mukes\.gradle\caches\transforms-3\f911dcf170c4355b55309601278b778a\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\mukes\.gradle\caches\transforms-3\9f4f7c23c776f5eb4f037a9398181243\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\mukes\.gradle\caches\transforms-3\a2c7c23218f384913fe2512ef70723c2\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\mukes\.gradle\caches\transforms-3\b93eef4fe68cffae3bac95b7e99908bd\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\mukes\.gradle\caches\transforms-3\7d7642e2a83dff9ac692fdca326b5514\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\mukes\.gradle\caches\transforms-3\7e3c8b16b5c0bdb2162b969a3b25b21e\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mukes\.gradle\caches\transforms-3\e8753969253d2876d2822c1816fa0222\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\mukes\.gradle\caches\transforms-3\25de86d634bfa2fae72a44174347ec38\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\mukes\.gradle\caches\transforms-3\1d93f347aa936c47d45701e04a42a425\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\mukes\.gradle\caches\transforms-3\ce997f24c0992aefc0d106b6f7d8a590\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\mukes\.gradle\caches\transforms-3\3b71fbf17a6746615fe9f21ef5dcafbe\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\mukes\.gradle\caches\transforms-3\9193ea83b191231f2688b79310995500\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.9.0] C:\Users\mukes\.gradle\caches\transforms-3\6572e896cf691f4b13ad10c561cb3105\transformed\core-1.9.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\mukes\.gradle\caches\transforms-3\6079f7a765a62598ba06a2f5fdead08d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\mukes\.gradle\caches\transforms-3\a2a5ae00951a98f5c9bbf6406733a104\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\mukes\.gradle\caches\transforms-3\71e4318e68333ee5211cad9a5d7dfe56\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\mukes\.gradle\caches\transforms-3\141897d0c032bfa9d3757b1eee182714\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\mukes\.gradle\caches\transforms-3\d4c9e45086bb311ab5f003976f396c14\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\mukes\.gradle\caches\transforms-3\4e36488ce7175ae8c877ecb2bcf3d6d5\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\mukes\.gradle\caches\transforms-3\a67592cbeffa1cbe78605a9f0c2667ef\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\mukes\.gradle\caches\transforms-3\06b0c4c23da14e1f45d060a21f70c776\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\mukes\.gradle\caches\transforms-3\9214917a2328e873e25f2a8df01ef814\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\mukes\.gradle\caches\transforms-3\8969035349e55fc4d6c445647f722696\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\mukes\.gradle\caches\transforms-3\39156f8221bbf5baef7142862eb30f66\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\mukes\.gradle\caches\transforms-3\fd1b545579ee6fe17065c14f79977cf0\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\mukes\.gradle\caches\transforms-3\947452df7c2c68665319fec12718535f\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\mukes\.gradle\caches\transforms-3\be78f20c96fdd8562774ce9c33a112b9\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\mukes\.gradle\caches\transforms-3\f1c1f6112ea6a1f399972dce89bf2eda\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\mukes\.gradle\caches\transforms-3\ce8a9e8514cc33ea621fae51328aa9c7\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:2:1-49:12
+	package
+		ADDED from C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:2:1-49:12
+		INJECTED from C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:2:1-49:12
+		INJECTED from C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:4:5-68
+	android:name
+		ADDED from C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:4:22-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:5:22-77
+application
+ADDED from C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:7:5-47:19
+MERGED from [com.google.android.material:material:1.8.0] C:\Users\mukes\.gradle\caches\transforms-3\ecf786b70a21a37ed512d79e4f35ade5\transformed\material-1.8.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.8.0] C:\Users\mukes\.gradle\caches\transforms-3\ecf786b70a21a37ed512d79e4f35ade5\transformed\material-1.8.0\AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\mukes\.gradle\caches\transforms-3\0d4f9bc886a3795bd69a15e0fcadfc45\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\mukes\.gradle\caches\transforms-3\0d4f9bc886a3795bd69a15e0fcadfc45\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\mukes\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\mukes\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] C:\Users\mukes\.gradle\caches\transforms-3\6572e896cf691f4b13ad10c561cb3105\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] C:\Users\mukes\.gradle\caches\transforms-3\6572e896cf691f4b13ad10c561cb3105\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\mukes\.gradle\caches\transforms-3\a2a5ae00951a98f5c9bbf6406733a104\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\mukes\.gradle\caches\transforms-3\a2a5ae00951a98f5c9bbf6406733a104\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\mukes\.gradle\caches\transforms-3\4e36488ce7175ae8c877ecb2bcf3d6d5\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\mukes\.gradle\caches\transforms-3\4e36488ce7175ae8c877ecb2bcf3d6d5\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\mukes\.gradle\caches\transforms-3\06b0c4c23da14e1f45d060a21f70c776\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\mukes\.gradle\caches\transforms-3\06b0c4c23da14e1f45d060a21f70c776\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] C:\Users\mukes\.gradle\caches\transforms-3\6572e896cf691f4b13ad10c561cb3105\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:11:9-43
+	android:icon
+		ADDED from C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:9:9-38
+	android:allowBackup
+		ADDED from C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.example.mkmusic.SplashScreenActivity
+ADDED from C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:14:9-29:20
+	android:screenOrientation
+		ADDED from C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:17:9-45
+	android:launchMode
+		ADDED from C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:16:9-39
+	android:exported
+		ADDED from C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:18:13-36
+	android:name
+		ADDED from C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:15:9-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:20:9-24:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:21:13-65
+	android:name
+		ADDED from C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:21:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:23:13-73
+	android:name
+		ADDED from C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:23:23-70
+meta-data#android.app.searchable
+ADDED from C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:26:13-28:54
+	android:resource
+		ADDED from C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:28:17-51
+	android:name
+		ADDED from C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:27:17-54
+activity#com.example.mkmusic.Activity.MainActivity
+ADDED from C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:31:9-45:20
+	android:screenOrientation
+		ADDED from C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:34:13-51
+	android:launchMode
+		ADDED from C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:33:13-43
+	android:exported
+		ADDED from C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:35:13-36
+	android:name
+		ADDED from C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:32:13-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.HOME
+ADDED from C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:36:13-40:29
+category#android.intent.category.HOME
+ADDED from C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:39:17-73
+	android:name
+		ADDED from C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:39:27-70
+uses-sdk
+INJECTED from C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.8.0] C:\Users\mukes\.gradle\caches\transforms-3\ecf786b70a21a37ed512d79e4f35ade5\transformed\material-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.8.0] C:\Users\mukes\.gradle\caches\transforms-3\ecf786b70a21a37ed512d79e4f35ade5\transformed\material-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\mukes\.gradle\caches\transforms-3\1e5a8d1be73ad89e2213705249663030\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\mukes\.gradle\caches\transforms-3\1e5a8d1be73ad89e2213705249663030\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\mukes\.gradle\caches\transforms-3\0d4f9bc886a3795bd69a15e0fcadfc45\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\mukes\.gradle\caches\transforms-3\0d4f9bc886a3795bd69a15e0fcadfc45\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\mukes\.gradle\caches\transforms-3\45b3b0cb8a82c4f04a29437990cd35c9\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\mukes\.gradle\caches\transforms-3\45b3b0cb8a82c4f04a29437990cd35c9\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\mukes\.gradle\caches\transforms-3\4db3d9e1c96e97f29832aa772b52264a\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\mukes\.gradle\caches\transforms-3\4db3d9e1c96e97f29832aa772b52264a\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\mukes\.gradle\caches\transforms-3\5059d3217f844de63f03a85fc33a1ce9\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\mukes\.gradle\caches\transforms-3\5059d3217f844de63f03a85fc33a1ce9\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mukes\.gradle\caches\transforms-3\e7b30545c7dde1e95f57bd7de9616f2c\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\mukes\.gradle\caches\transforms-3\e7b30545c7dde1e95f57bd7de9616f2c\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\mukes\.gradle\caches\transforms-3\2afa6548654408e47fbd8cefa248891d\transformed\jetified-activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\mukes\.gradle\caches\transforms-3\2afa6548654408e47fbd8cefa248891d\transformed\jetified-activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\mukes\.gradle\caches\transforms-3\f7aa6055ca45ba18dd8c235f594492ff\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\mukes\.gradle\caches\transforms-3\f7aa6055ca45ba18dd8c235f594492ff\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\mukes\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\mukes\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\mukes\.gradle\caches\transforms-3\40385b749faeb1e28d272b77cbb8f0b1\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\mukes\.gradle\caches\transforms-3\40385b749faeb1e28d272b77cbb8f0b1\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\mukes\.gradle\caches\transforms-3\f911dcf170c4355b55309601278b778a\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\mukes\.gradle\caches\transforms-3\f911dcf170c4355b55309601278b778a\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\mukes\.gradle\caches\transforms-3\9f4f7c23c776f5eb4f037a9398181243\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\mukes\.gradle\caches\transforms-3\9f4f7c23c776f5eb4f037a9398181243\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\mukes\.gradle\caches\transforms-3\a2c7c23218f384913fe2512ef70723c2\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\mukes\.gradle\caches\transforms-3\a2c7c23218f384913fe2512ef70723c2\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\mukes\.gradle\caches\transforms-3\b93eef4fe68cffae3bac95b7e99908bd\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\mukes\.gradle\caches\transforms-3\b93eef4fe68cffae3bac95b7e99908bd\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\mukes\.gradle\caches\transforms-3\7d7642e2a83dff9ac692fdca326b5514\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\mukes\.gradle\caches\transforms-3\7d7642e2a83dff9ac692fdca326b5514\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\mukes\.gradle\caches\transforms-3\7e3c8b16b5c0bdb2162b969a3b25b21e\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\mukes\.gradle\caches\transforms-3\7e3c8b16b5c0bdb2162b969a3b25b21e\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mukes\.gradle\caches\transforms-3\e8753969253d2876d2822c1816fa0222\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\mukes\.gradle\caches\transforms-3\e8753969253d2876d2822c1816fa0222\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\mukes\.gradle\caches\transforms-3\25de86d634bfa2fae72a44174347ec38\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\mukes\.gradle\caches\transforms-3\25de86d634bfa2fae72a44174347ec38\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\mukes\.gradle\caches\transforms-3\1d93f347aa936c47d45701e04a42a425\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\mukes\.gradle\caches\transforms-3\1d93f347aa936c47d45701e04a42a425\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\mukes\.gradle\caches\transforms-3\ce997f24c0992aefc0d106b6f7d8a590\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\mukes\.gradle\caches\transforms-3\ce997f24c0992aefc0d106b6f7d8a590\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\mukes\.gradle\caches\transforms-3\3b71fbf17a6746615fe9f21ef5dcafbe\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\mukes\.gradle\caches\transforms-3\3b71fbf17a6746615fe9f21ef5dcafbe\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\mukes\.gradle\caches\transforms-3\9193ea83b191231f2688b79310995500\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\mukes\.gradle\caches\transforms-3\9193ea83b191231f2688b79310995500\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] C:\Users\mukes\.gradle\caches\transforms-3\6572e896cf691f4b13ad10c561cb3105\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\mukes\.gradle\caches\transforms-3\6572e896cf691f4b13ad10c561cb3105\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\mukes\.gradle\caches\transforms-3\6079f7a765a62598ba06a2f5fdead08d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\mukes\.gradle\caches\transforms-3\6079f7a765a62598ba06a2f5fdead08d\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\mukes\.gradle\caches\transforms-3\a2a5ae00951a98f5c9bbf6406733a104\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\mukes\.gradle\caches\transforms-3\a2a5ae00951a98f5c9bbf6406733a104\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\mukes\.gradle\caches\transforms-3\71e4318e68333ee5211cad9a5d7dfe56\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\mukes\.gradle\caches\transforms-3\71e4318e68333ee5211cad9a5d7dfe56\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\mukes\.gradle\caches\transforms-3\141897d0c032bfa9d3757b1eee182714\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\mukes\.gradle\caches\transforms-3\141897d0c032bfa9d3757b1eee182714\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\mukes\.gradle\caches\transforms-3\d4c9e45086bb311ab5f003976f396c14\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\mukes\.gradle\caches\transforms-3\d4c9e45086bb311ab5f003976f396c14\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\mukes\.gradle\caches\transforms-3\4e36488ce7175ae8c877ecb2bcf3d6d5\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\mukes\.gradle\caches\transforms-3\4e36488ce7175ae8c877ecb2bcf3d6d5\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\mukes\.gradle\caches\transforms-3\a67592cbeffa1cbe78605a9f0c2667ef\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\mukes\.gradle\caches\transforms-3\a67592cbeffa1cbe78605a9f0c2667ef\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\mukes\.gradle\caches\transforms-3\06b0c4c23da14e1f45d060a21f70c776\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\mukes\.gradle\caches\transforms-3\06b0c4c23da14e1f45d060a21f70c776\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\mukes\.gradle\caches\transforms-3\9214917a2328e873e25f2a8df01ef814\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\mukes\.gradle\caches\transforms-3\9214917a2328e873e25f2a8df01ef814\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\mukes\.gradle\caches\transforms-3\8969035349e55fc4d6c445647f722696\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\mukes\.gradle\caches\transforms-3\8969035349e55fc4d6c445647f722696\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\mukes\.gradle\caches\transforms-3\39156f8221bbf5baef7142862eb30f66\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\mukes\.gradle\caches\transforms-3\39156f8221bbf5baef7142862eb30f66\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\mukes\.gradle\caches\transforms-3\fd1b545579ee6fe17065c14f79977cf0\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\mukes\.gradle\caches\transforms-3\fd1b545579ee6fe17065c14f79977cf0\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\mukes\.gradle\caches\transforms-3\947452df7c2c68665319fec12718535f\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\mukes\.gradle\caches\transforms-3\947452df7c2c68665319fec12718535f\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\mukes\.gradle\caches\transforms-3\be78f20c96fdd8562774ce9c33a112b9\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\mukes\.gradle\caches\transforms-3\be78f20c96fdd8562774ce9c33a112b9\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\mukes\.gradle\caches\transforms-3\f1c1f6112ea6a1f399972dce89bf2eda\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\mukes\.gradle\caches\transforms-3\f1c1f6112ea6a1f399972dce89bf2eda\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\mukes\.gradle\caches\transforms-3\ce8a9e8514cc33ea621fae51328aa9c7\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\mukes\.gradle\caches\transforms-3\ce8a9e8514cc33ea621fae51328aa9c7\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\mukes\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\mukes\.gradle\caches\transforms-3\a2a5ae00951a98f5c9bbf6406733a104\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\mukes\.gradle\caches\transforms-3\a2a5ae00951a98f5c9bbf6406733a104\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\mukes\.gradle\caches\transforms-3\4e36488ce7175ae8c877ecb2bcf3d6d5\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\mukes\.gradle\caches\transforms-3\4e36488ce7175ae8c877ecb2bcf3d6d5\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\mukes\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\mukes\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\mukes\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\mukes\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\mukes\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\mukes\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\mukes\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\mukes\.gradle\caches\transforms-3\6572e896cf691f4b13ad10c561cb3105\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\mukes\.gradle\caches\transforms-3\6572e896cf691f4b13ad10c561cb3105\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\mukes\.gradle\caches\transforms-3\6572e896cf691f4b13ad10c561cb3105\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+permission#com.example.mkmusic.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\mukes\.gradle\caches\transforms-3\6572e896cf691f4b13ad10c561cb3105\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\mukes\.gradle\caches\transforms-3\6572e896cf691f4b13ad10c561cb3105\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\mukes\.gradle\caches\transforms-3\6572e896cf691f4b13ad10c561cb3105\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\mukes\.gradle\caches\transforms-3\6572e896cf691f4b13ad10c561cb3105\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\mukes\.gradle\caches\transforms-3\6572e896cf691f4b13ad10c561cb3105\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.mkmusic.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\mukes\.gradle\caches\transforms-3\6572e896cf691f4b13ad10c561cb3105\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\mukes\.gradle\caches\transforms-3\6572e896cf691f4b13ad10c561cb3105\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\mukes\.gradle\caches\transforms-3\a2a5ae00951a98f5c9bbf6406733a104\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\mukes\.gradle\caches\transforms-3\a2a5ae00951a98f5c9bbf6406733a104\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\mukes\.gradle\caches\transforms-3\a2a5ae00951a98f5c9bbf6406733a104\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78

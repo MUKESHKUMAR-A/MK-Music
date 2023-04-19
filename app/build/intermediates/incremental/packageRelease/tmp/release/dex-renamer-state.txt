@@ -1,0 +1,4 @@
+#Thu Sep 08 18:03:47 IST 2022
+base.0=C\:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\intermediates\\dex\\release\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

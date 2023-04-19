@@ -1,0 +1,24 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\mukes\\AndroidStudioProjects\\MkMusic\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\mukes\\.gradle\\caches\\transforms-2\\files-2.1\\c7c2a73a67d81929ea54a71edd9c54a1\\appcompat-v7-27.1.1\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593",
+                        "endColumns": "69,83,83,95,101,101,93",
+                        "endOffsets": "120,204,288,384,486,588,682"
+                    }
+                }
+            ]
+        }
+    ]
+}

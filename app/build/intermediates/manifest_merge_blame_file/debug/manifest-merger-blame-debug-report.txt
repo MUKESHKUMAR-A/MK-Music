@@ -1,0 +1,129 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.mkmusic"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.WAKE_LOCK" />
+11-->C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:4:5-68
+11-->C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:4:22-65
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:5:5-80
+12-->C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:5:22-77
+13
+14    <permission
+14-->[androidx.core:core:1.9.0] C:\Users\mukes\.gradle\caches\transforms-3\6572e896cf691f4b13ad10c561cb3105\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+15        android:name="com.example.mkmusic.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+15-->[androidx.core:core:1.9.0] C:\Users\mukes\.gradle\caches\transforms-3\6572e896cf691f4b13ad10c561cb3105\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+16        android:protectionLevel="signature" />
+16-->[androidx.core:core:1.9.0] C:\Users\mukes\.gradle\caches\transforms-3\6572e896cf691f4b13ad10c561cb3105\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+17
+18    <uses-permission android:name="com.example.mkmusic.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+18-->[androidx.core:core:1.9.0] C:\Users\mukes\.gradle\caches\transforms-3\6572e896cf691f4b13ad10c561cb3105\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+18-->[androidx.core:core:1.9.0] C:\Users\mukes\.gradle\caches\transforms-3\6572e896cf691f4b13ad10c561cb3105\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+19
+20    <application
+20-->C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:7:5-47:19
+21        android:allowBackup="true"
+21-->C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:8:9-35
+22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+22-->[androidx.core:core:1.9.0] C:\Users\mukes\.gradle\caches\transforms-3\6572e896cf691f4b13ad10c561cb3105\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+23        android:debuggable="true"
+24        android:icon="@drawable/logo"
+24-->C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:9:9-38
+25        android:label="@string/app_name"
+25-->C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:10:9-41
+26        android:roundIcon="@drawable/logo"
+26-->C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:11:9-43
+27        android:supportsRtl="true"
+27-->C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:12:9-35
+28        android:testOnly="true"
+29        android:theme="@style/AppTheme" >
+29-->C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:13:9-40
+30        <activity
+30-->C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:14:9-29:20
+31            android:name="com.example.mkmusic.SplashScreenActivity"
+31-->C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:15:9-44
+32            android:exported="true"
+32-->C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:18:13-36
+33            android:launchMode="singleTop"
+33-->C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:16:9-39
+34            android:screenOrientation="portrait" >
+34-->C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:17:9-45
+35            <intent-filter>
+35-->C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:20:9-24:25
+36                <action android:name="android.intent.action.MAIN" />
+36-->C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:21:13-65
+36-->C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:21:21-62
+37
+38                <category android:name="android.intent.category.LAUNCHER" />
+38-->C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:23:13-73
+38-->C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:23:23-70
+39            </intent-filter>
+40
+41            <meta-data
+41-->C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:26:13-28:54
+42                android:name="android.app.searchable"
+42-->C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:27:17-54
+43                android:resource="@xml/searchable" />
+43-->C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:28:17-51
+44        </activity>
+45        <activity
+45-->C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:31:9-45:20
+46            android:name="com.example.mkmusic.Activity.MainActivity"
+46-->C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:32:13-50
+47            android:exported="true"
+47-->C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:35:13-36
+48            android:launchMode="singleTop"
+48-->C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:33:13-43
+49            android:screenOrientation="fullSensor" >
+49-->C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:34:13-51
+50            <intent-filter>
+50-->C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:36:13-40:29
+51                <action android:name="android.intent.action.MAIN" />
+51-->C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:21:13-65
+51-->C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:21:21-62
+52
+53                <category android:name="android.intent.category.HOME" />
+53-->C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:39:17-73
+53-->C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:39:27-70
+54            </intent-filter>
+55
+56            <meta-data
+56-->C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:26:13-28:54
+57                android:name="android.app.searchable"
+57-->C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:27:17-54
+58                android:resource="@xml/searchable" />
+58-->C:\Users\mukes\AndroidStudioProjects\MkMusic\app\src\main\AndroidManifest.xml:28:17-51
+59        </activity>
+60
+61        <provider
+61-->[androidx.emoji2:emoji2:1.2.0] C:\Users\mukes\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+62            android:name="androidx.startup.InitializationProvider"
+62-->[androidx.emoji2:emoji2:1.2.0] C:\Users\mukes\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+63            android:authorities="com.example.mkmusic.androidx-startup"
+63-->[androidx.emoji2:emoji2:1.2.0] C:\Users\mukes\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+64            android:exported="false" >
+64-->[androidx.emoji2:emoji2:1.2.0] C:\Users\mukes\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+65            <meta-data
+65-->[androidx.emoji2:emoji2:1.2.0] C:\Users\mukes\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+66                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+66-->[androidx.emoji2:emoji2:1.2.0] C:\Users\mukes\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+67                android:value="androidx.startup" />
+67-->[androidx.emoji2:emoji2:1.2.0] C:\Users\mukes\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+68            <meta-data
+68-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\mukes\.gradle\caches\transforms-3\a2a5ae00951a98f5c9bbf6406733a104\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+69                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+69-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\mukes\.gradle\caches\transforms-3\a2a5ae00951a98f5c9bbf6406733a104\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+70                android:value="androidx.startup" />
+70-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\mukes\.gradle\caches\transforms-3\a2a5ae00951a98f5c9bbf6406733a104\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+71        </provider>
+72    </application>
+73
+74</manifest>

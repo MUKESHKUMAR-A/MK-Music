@@ -1,0 +1,230 @@
+[
+    {
+        "merged": "com.example.mkmusic.app-merged_res-29:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.mkmusic.app-main-31:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.mkmusic.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.mkmusic.app-main-31:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.mkmusic.app-merged_res-29:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.mkmusic.app-main-31:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.mkmusic.app-merged_res-29:/drawable_about_icon.xml.flat",
+        "source": "com.example.mkmusic.app-main-31:/drawable/about_icon.xml"
+    },
+    {
+        "merged": "com.example.mkmusic.app-merged_res-29:/drawable_ic_music.xml.flat",
+        "source": "com.example.mkmusic.app-main-31:/drawable/ic_music.xml"
+    },
+    {
+        "merged": "com.example.mkmusic.app-merged_res-29:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.mkmusic.app-main-31:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.mkmusic.app-merged_res-29:/drawable_theme_color_icon.xml.flat",
+        "source": "com.example.mkmusic.app-main-31:/drawable/theme_color_icon.xml"
+    },
+    {
+        "merged": "com.example.mkmusic.app-merged_res-29:/drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.mkmusic.app-pngs-24:/drawable-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.mkmusic.app-merged_res-29:/menu_action_bar_menu.xml.flat",
+        "source": "com.example.mkmusic.app-main-31:/menu/action_bar_menu.xml"
+    },
+    {
+        "merged": "com.example.mkmusic.app-merged_res-29:/drawable_ic_settings.xml.flat",
+        "source": "com.example.mkmusic.app-main-31:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "com.example.mkmusic.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.mkmusic.app-main-31:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.mkmusic.app-merged_res-29:/drawable_refresh_icon.xml.flat",
+        "source": "com.example.mkmusic.app-main-31:/drawable/refresh_icon.xml"
+    },
+    {
+        "merged": "com.example.mkmusic.app-merged_res-29:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.mkmusic.app-pngs-24:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.mkmusic.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.mkmusic.app-main-31:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.mkmusic.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.mkmusic.app-main-31:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.mkmusic.app-merged_res-29:/drawable_favorite_icon.xml.flat",
+        "source": "com.example.mkmusic.app-main-31:/drawable/favorite_icon.xml"
+    },
+    {
+        "merged": "com.example.mkmusic.app-merged_res-29:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.mkmusic.app-main-31:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.mkmusic.app-merged_res-29:/drawable_undo_icon.xml.flat",
+        "source": "com.example.mkmusic.app-main-31:/drawable/undo_icon.xml"
+    },
+    {
+        "merged": "com.example.mkmusic.app-merged_res-29:/drawable_search_icon.xml.flat",
+        "source": "com.example.mkmusic.app-main-31:/drawable/search_icon.xml"
+    },
+    {
+        "merged": "com.example.mkmusic.app-merged_res-29:/drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.mkmusic.app-pngs-24:/drawable-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.mkmusic.app-merged_res-29:/drawable-xhdpi_play_icon.png.flat",
+        "source": "com.example.mkmusic.app-pngs-24:/drawable-xhdpi/play_icon.png"
+    },
+    {
+        "merged": "com.example.mkmusic.app-merged_res-29:/drawable_timer_icon.xml.flat",
+        "source": "com.example.mkmusic.app-main-31:/drawable/timer_icon.xml"
+    },
+    {
+        "merged": "com.example.mkmusic.app-merged_res-29:/drawable_rate_icon.xml.flat",
+        "source": "com.example.mkmusic.app-main-31:/drawable/rate_icon.xml"
+    },
+    {
+        "merged": "com.example.mkmusic.app-merged_res-29:/drawable_previous_icon.xml.flat",
+        "source": "com.example.mkmusic.app-main-31:/drawable/previous_icon.xml"
+    },
+    {
+        "merged": "com.example.mkmusic.app-merged_res-29:/layout_playlist_items.xml.flat",
+        "source": "com.example.mkmusic.app-main-31:/layout/playlist_items.xml"
+    },
+    {
+        "merged": "com.example.mkmusic.app-merged_res-29:/drawable-hdpi_play_icon.png.flat",
+        "source": "com.example.mkmusic.app-pngs-24:/drawable-hdpi/play_icon.png"
+    },
+    {
+        "merged": "com.example.mkmusic.app-merged_res-29:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.mkmusic.app-main-31:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.mkmusic.app-merged_res-29:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.mkmusic.app-main-31:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.mkmusic.app-merged_res-29:/drawable-xxxhdpi_play_icon.png.flat",
+        "source": "com.example.mkmusic.app-pngs-24:/drawable-xxxhdpi/play_icon.png"
+    },
+    {
+        "merged": "com.example.mkmusic.app-merged_res-29:/drawable-ldpi_play_icon.png.flat",
+        "source": "com.example.mkmusic.app-pngs-24:/drawable-ldpi/play_icon.png"
+    },
+    {
+        "merged": "com.example.mkmusic.app-merged_res-29:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.mkmusic.app-main-31:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.mkmusic.app-merged_res-29:/layout_fragment_tab.xml.flat",
+        "source": "com.example.mkmusic.app-main-31:/layout/fragment_tab.xml"
+    },
+    {
+        "merged": "com.example.mkmusic.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.mkmusic.app-main-31:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.mkmusic.app-merged_res-29:/drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.mkmusic.app-pngs-24:/drawable-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.mkmusic.app-merged_res-29:/drawable_ic_favorite_filled.xml.flat",
+        "source": "com.example.mkmusic.app-main-31:/drawable/ic_favorite_filled.xml"
+    },
+    {
+        "merged": "com.example.mkmusic.app-merged_res-29:/drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.mkmusic.app-pngs-24:/drawable-ldpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.mkmusic.app-merged_res-29:/drawable_ic_music_player.xml.flat",
+        "source": "com.example.mkmusic.app-main-31:/drawable/ic_music_player.xml"
+    },
+    {
+        "merged": "com.example.mkmusic.app-merged_res-29:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.mkmusic.app-main-31:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.mkmusic.app-merged_res-29:/layout_player_layout.xml.flat",
+        "source": "com.example.mkmusic.app-main-31:/layout/player_layout.xml"
+    },
+    {
+        "merged": "com.example.mkmusic.app-merged_res-29:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.mkmusic.app-main-31:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.mkmusic.app-merged_res-29:/drawable_next_icon.xml.flat",
+        "source": "com.example.mkmusic.app-main-31:/drawable/next_icon.xml"
+    },
+    {
+        "merged": "com.example.mkmusic.app-merged_res-29:/drawable-v24_logo.png.flat",
+        "source": "com.example.mkmusic.app-main-31:/drawable-v24/logo.png"
+    },
+    {
+        "merged": "com.example.mkmusic.app-merged_res-29:/layout_activity_spalshscreen.xml.flat",
+        "source": "com.example.mkmusic.app-main-31:/layout/activity_spalshscreen.xml"
+    },
+    {
+        "merged": "com.example.mkmusic.app-merged_res-29:/drawable-anydpi-v24_play_icon.xml.flat",
+        "source": "com.example.mkmusic.app-pngs-24:/drawable-anydpi-v24/play_icon.xml"
+    },
+    {
+        "merged": "com.example.mkmusic.app-merged_res-29:/drawable_arrow_forward.xml.flat",
+        "source": "com.example.mkmusic.app-main-31:/drawable/arrow_forward.xml"
+    },
+    {
+        "merged": "com.example.mkmusic.app-merged_res-29:/drawable_header_background.jpg.flat",
+        "source": "com.example.mkmusic.app-main-31:/drawable/header_background.jpg"
+    },
+    {
+        "merged": "com.example.mkmusic.app-merged_res-29:/drawable-xxhdpi_play_icon.png.flat",
+        "source": "com.example.mkmusic.app-pngs-24:/drawable-xxhdpi/play_icon.png"
+    },
+    {
+        "merged": "com.example.mkmusic.app-merged_res-29:/drawable_headset_icon.xml.flat",
+        "source": "com.example.mkmusic.app-main-31:/drawable/headset_icon.xml"
+    },
+    {
+        "merged": "com.example.mkmusic.app-merged_res-29:/drawable-mdpi_play_icon.png.flat",
+        "source": "com.example.mkmusic.app-pngs-24:/drawable-mdpi/play_icon.png"
+    },
+    {
+        "merged": "com.example.mkmusic.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "com.example.mkmusic.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.mkmusic.app-merged_res-29:/drawable_menu_icon.xml.flat",
+        "source": "com.example.mkmusic.app-main-31:/drawable/menu_icon.xml"
+    },
+    {
+        "merged": "com.example.mkmusic.app-merged_res-29:/drawable_pause_icon.xml.flat",
+        "source": "com.example.mkmusic.app-main-31:/drawable/pause_icon.xml"
+    },
+    {
+        "merged": "com.example.mkmusic.app-merged_res-29:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.mkmusic.app-main-31:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.mkmusic.app-merged_res-29:/drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.mkmusic.app-pngs-24:/drawable-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.mkmusic.app-merged_res-29:/xml_searchable.xml.flat",
+        "source": "com.example.mkmusic.app-main-31:/xml/searchable.xml"
+    },
+    {
+        "merged": "com.example.mkmusic.app-merged_res-29:/drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.mkmusic.app-pngs-24:/drawable-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.mkmusic.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.mkmusic.app-main-31:/mipmap-xxhdpi/ic_launcher_round.png"
+    }
+]
